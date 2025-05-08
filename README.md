@@ -1,3 +1,5 @@
+# Finance
+
 Welcome to FinanceTracker — a personal finance management web app I built using **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**. This project started as a way to challenge myself to build something full-stack, and ended up turning into a pretty useful budgeting tool.
 
 ---
